@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-size: 35px;
+	font-size: 45px;
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
@@ -95,7 +95,7 @@ a:after {
 }
 
 .navbar-inverse {
-	background-color: #79145b;
+	background-color: #0d4616;
 	border-color: #16a085;
 }
 
